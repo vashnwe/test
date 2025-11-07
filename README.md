@@ -1,2 +1,2 @@
 # hi! glad you found me ;)
-testing
+I’m Vaishnavi, a data-driven problem solver passionate about the intersection of analytics and product strategy. Currently pursuing my Master’s in Data Analytics Engineering at Northeastern University, I bring experience from healthcare and tech startups where I’ve built insights, products, and processes that drive real impact. Curious mind, creative energy, and a love for thoughtful solutions.
